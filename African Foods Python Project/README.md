@@ -2,11 +2,12 @@ In this project, we used python programming language to extract, clean, restruct
 
 This project focused on answering five important market research questions -
 
-What are the different products sold in the ghana market?
-Which market type is more saturated?
-What is the number of sales of each product?
-Which state recorded more sales?
-What year recorded the most sales?
+1. What are the different products sold in the ghana market?
+2. Which market type is more saturated?
+3. What is the number of sales of each product?
+4. Which state recorded more sales?
+5. What year recorded the most sales?
+
 The answer to these questions can be used as a guide by any potential investor or businessman to determine what product and what location to invest into.
 
 I genuinely hope you have found this project helpful.
