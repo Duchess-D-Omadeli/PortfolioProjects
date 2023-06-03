@@ -10,6 +10,6 @@ This project answered the following market research questions-
 3. What room type makes the most amount of money?
 4. What room type has the biggest market competition?
 
-The answers to these question will guide a potential investor on his/her choice of location and type (how many bedrooms in a  house to be listed)  of Airbnb to open based on price they can charge, size of their competition in each market, and how well every house with a certain amount of bedrooms survive in the market.
+The answers to these question will guide a potential investor on his/her choice of location and type (how many bedrooms in a  house to be listed)  of Airbnb to open based on price they can charge, size of their competition in each market, and how well every house type survives in the market.
 
 I hope  you enjoy going through this project :D
