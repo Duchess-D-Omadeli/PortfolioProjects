@@ -6,7 +6,7 @@ SQL queries were written to analyze important trends and patterns concerning the
 A new table containing information about continent, location, date, population, new vaccination and a rolling count of people vaccinated was created. SQL views were also created.
 
 This project answered the following research questions-
-1. What is the percentage chance of dyiing if infected by the Covid-19 disease?
+1. What is the percentage chance of dying if infected by the Covid-19 disease?
 2. What amount of population contracted the disease in each country?
 3. Which countries recorded the highest amount of covid-19 infection rate?
 4. Which countries had the highest death rate?
