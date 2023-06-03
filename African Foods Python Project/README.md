@@ -5,10 +5,10 @@ This dataset includes information about each product sale such as serial number,
 ______________________________________________________________________________________________________________________________________________________
 **Data Structure**: This csv file include 956780 rows and 18 columns.
 _____________________________________________________________________________________________________________________________________________________
-**Analysis Tools**: Python, 
+**Analysis Tools**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn.
 ______________________________________________________________________________________________________________________________________________________
 **Brief Project Description**
-In this project, we used python programming language to extract, clean, restructure and visualize an african food dataset. After the cleaning process, i picked a particular interest in the market climate in Ghana.
+In this project, we used python programming language to extract, clean, restructure and visualize an african food dataset. The cleaned  dataset was saved into a new csv file. After the cleaning process, i picked a particular interest in the market climate in Ghana.
 
 This project focused on answering five important market research questions -
 
