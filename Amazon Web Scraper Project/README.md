@@ -1,8 +1,9 @@
 # WELCOME TO MY AMAZON WEB SCRAPER PROJECT
-NOTE: This project was creted for research purposes only. 
+NOTE: This project was created for research purposes only. 
 
 **Data Source**: [Amazon.com](https://www.amazon.com/Jordan-Mens-Retro-555088-Patent/dp/B09F6LDPKT/ref=sr_1_2?crid=KIC753NJYZ72&keywords=jordan+1&qid=1684142344&sprefix=jordan+%2Caps%2C895&sr=8-2)
-This website includes all the vital information about Men's Jordan 1 Retro High OG Dark Marina Blue Black-White sneakers 
+
+This website includes all the vital information about Men's Jordan 1 Retro High OG Dark Marina Blue Black-White sneakers.
 ________________________________________________________________________________________________________________________
 **Technology**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn, Smtplib, Time and Datetime.
 ________________________________________________________________________________________________________________________
