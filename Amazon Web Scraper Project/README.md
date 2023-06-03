@@ -8,13 +8,13 @@ ________________________________________________________________________________
 **Technology**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn, Smtplib, Time and Datetime.
 ________________________________________________________________________________________________________________________
 
-**Brief Project Description**: Series of codes were written using Python programming lato collect data about a particular Nike Jordan men sneakers. The information collected was the name, price and rating of the product, the date and time function was also used to record and create a date stamp for everytime data is collected. This information was used to create a very structured csv file that is saved directly into the computer's drive and can also be accessed offline.
+**Brief Project Description**: Series of codes were written using Python programming language and it's libraries to collect data about a particular Nike Jordan men sneakers. The information collected was the name, price and rating of the product, the date and time function was also used to record and create a date stamp for everytime data is collected. This information was used to create a very structured csv file that is saved directly into the computer's drive and can also be accessed offline.
 
 The project was automated to collect and update new data about the product every 24 hours and automatically stores it into the csv file.
 
 Lastly, a series of codes were written that allows the project to send a direct message to my personal e-mail account if the price of the sneakers fall below a set price of $348.
 ________________________________________________________________________________________________________________________
-**Result**- A fully functional automated python project that scrapes amazon's website every 24hours and collects information aboout a product and saves it directly into a offline csv file.
+**Result**- A fully functional automated python project that scrapes amazon's website every 24hours and collects information about a product and saves it directly into a offline csv file.
 _________________________________________________________________________________________________________________________
 I hope you enjoy going through this project as much i have enjoyed creating it.
 
