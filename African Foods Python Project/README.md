@@ -27,10 +27,15 @@ From the dataset, the different variety of produce sold in the ghana market are 
        Eggplants , Cowpeas (white) , Plantains (apem) ,
        Tomatoes (navrongo) , Peppers (fresh) , Peppers (dried) ,
        Yam (puna) , Fish (mackerel, fresh) , Meat (chicken, local) 
+       
+**Conclusion:** There are large variety of goods sold in the ghana market varying from perishable to non perishable foods so a potential investor has a lot of options to choose from.
 __________________________________________________________________________________________________________________________________________________________   
 **Evaluating Question 2: Which market type is more saturated?**
 
-From 
+Examining the market types in the ghanian market reveals in depth knowledge into ???????. The market types in Ghana are wholesale and retail. The wholesale market has 18,231 thousand wholesalers which is more than double the number of retailers which has a total of 7,183 thousand retailers.
+
+**Conclusion:** The wholsale market has considerable more saturated than 
+
 
 
 
