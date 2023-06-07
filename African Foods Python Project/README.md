@@ -7,7 +7,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________
 **Analysis Tools**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn.
 ______________________________________________________________________________________________________________________________________________________
-**Brief Project Description**
+**Brief Project Description**:
+
 In this project, we used python programming language to extract, clean, restructure and visualize an african food dataset. The cleaned  dataset was saved into a new csv file. After the cleaning process, i picked a particular interest in the market climate in Ghana.
 
 This project focused on answering five important market research questions -
@@ -34,7 +35,14 @@ ________________________________________________________________________________
 
 Examining the market types in the ghanian market reveals in depth knowledge into ???????. The market types in Ghana are wholesale and retail. The wholesale market has 18,231 thousand wholesalers which is more than double the number of retailers which has a total of 7,183 thousand retailers.
 
-**Conclusion:** The wholsale market has considerable more saturated than 
+**Conclusion:** The wholesale market is considerable more saturated than the retail market so anyone investing in wholesale should know that it will be more competitive than retail.
+_______________________________________________________________________________________________________________________________________________________________
+**Evaluating Question 3: What is the number of sales of each product?**
+
+Examining the number of sales of each product provides an indepth knowledge into the buying pattern of consumers in ghana. The analysis includes all the products listed in evaluaation 1 above. 
+
+The product that generated the mosst sales was 
+
 
 
 
