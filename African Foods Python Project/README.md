@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 Examining the number of sales of each product provides an indepth knowledge into the buying pattern of consumers in ghana. The analysis includes all the products listed in evaluaation 1 above. 
 
-The product that generated the mosst sales was 
+The produce that generated the most sales was Maize with a total of 2,736 sales and a close second was Yam with 2496 sales.
 
 
 
