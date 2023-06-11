@@ -27,23 +27,23 @@ From the dataset, the different variety of produce sold in the ghana market are 
        Rice (paddy) , Cowpeas , Soybeans , Tomatoes (local) ,
        Eggplants , Cowpeas (white) , Plantains (apem) ,
        Tomatoes (navrongo) , Peppers (fresh) , Peppers (dried) ,
-       Yam (puna) , Fish (mackerel, fresh) , Meat (chicken, local) 
+       Yam (puna) , Fish (mackerel, fresh) , Meat (chicken, local).
        
 **Conclusion:** There are large variety of goods sold in the ghana market varying from perishable to non perishable foods so a potential investor has a lot of options to choose from.
 __________________________________________________________________________________________________________________________________________________________   
 **Evaluating Question 2: Which market type is more saturated?**
 
-Examining the market types in the ghanian market reveals in depth knowledge into ???????. The market types in Ghana are wholesale and retail. The wholesale market has 18,231 thousand wholesalers which is more than double the number of retailers which has a total of 7,183 thousand retailers.
+Examining the market types in the ghana market reveals in depth knowledge into it's sales pattern. The market types in Ghana are wholesale and retail. The wholesale market has 18,231 thousand wholesalers which is more than double the number of retailers which has a total of 7,183 thousand retailers.
 
-**Conclusion:** The wholesale market is considerable more saturated than the retail market so anyone investing in wholesale should know that it will be more competitive than retail.
+**Conclusion:** The wholesale market is considerable more saturated than the retail market so investing in wholesale will be more competitive than retail.
 _______________________________________________________________________________________________________________________________________________________________
 **Evaluating Question 3: What is the number of sales of each product?**
 
-Examining the number of sales of each product provides an indepth knowledge into the buying pattern of consumers in ghana. The analysis includes all the products listed in evaluaation 1 above. 
+Examining the number of sales of each product provides an in depth knowledge into the buying pattern of consumers in ghana. The analysis includes all the products listed in Evaluation 1 above. 
 
-The produce that generated the most sales was Maize with a total of 2,736 sales and a close second was Yam with 2496 sales.
+The produce that generated the most sales was Maize with a total of 2,736 sales and a close second was Yam with 2,496 sales.
 
-
+**Conclusion:** Non-perishable goods record more sales as compared to perishable goods
 
 
 
