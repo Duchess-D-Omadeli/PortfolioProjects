@@ -3,7 +3,7 @@
 
 This dataset includes information about each product sale such as serial number,product name,product id,market type, market type id, market, market id, price, currency,currency id, quantity,unit_id, state, state_id, country, country_id, month, year.
 ______________________________________________________________________________________________________________________________________________________
-**Data Structure**: This csv file include 956780 rows and 18 columns.
+**Data Structure**: This csv file includes 956,780 rows and 18 columns.
 _____________________________________________________________________________________________________________________________________________________
 **Analysis Tools**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn.
 ______________________________________________________________________________________________________________________________________________________
