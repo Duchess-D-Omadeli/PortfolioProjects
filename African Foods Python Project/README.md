@@ -43,7 +43,20 @@ Examining the number of sales of each product provides an in depth knowledge int
 
 The produce that generated the most sales was Maize with a total of 2,736 sales and a close second was Yam with 2,496 sales.
 
-**Conclusion:** Non-perishable goods record more sales as compared to perishable goods
+**Conclusion:** Non-perishable goods such as yam and rice record more sales as compared to perishable goods such as meat and tomatoes. Investing in non-perishable foods has a greater chance of yielding profit.
+_______________________________________________________________________________________________________________________________________________________________
+**Evaluating Question 4: Which state recorded more sales?**
+
+Examining the number of sales in each state shows the most profitable markets. The states evaluated were Volta, Eastern Ghana, Upper west, Western Ghana, Upper East, Central Ghana, Northern Ghana, Greater Accra, Ashanti and Brong Ahafo. The state that recorded the most sales is Brong Ahafo followed by Ashanti and a close third was Greater Accra.
+
+**Conclusion:** Statistically, There is a greater chance of making more income in the southern part of Ghana which is majorly made up of Brong Ahafo, Ashanti and greater accra.
+_______________________________________________________________________________________________________________________________________________________________
+**Evaluating Question 5: What year recorded the most sales?**
+
+Examining the number of sales per year reveals market progression and patterns in Ghana. The year that recorded most sales was 2020.
+
+**Conclusion:** Over the years, the ghana market has displayed a systematic increase in the number of goods sold each year. A long term investment is advised.
+________________________________________________________________________________________________________________________________________________________________
 
 
 
