@@ -20,6 +20,6 @@ This project answered the following sales questions-
 5. Is location important when making sales?
 ________________________________________________________________________________________________________________________________________________________________
 
-**Conclusion:**The answers to these questions helps direct the company's focus to the right niche to enhance the number of sales..
+**Conclusion:** The answers to these questions helps direct the company's focus to the right niche to enhance the number of sales.
 _______________________________
 Thank you for going through the project and i hope you find it insightful :D
