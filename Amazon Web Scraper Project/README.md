@@ -16,7 +16,7 @@ The Application was automated to collect and update new data about the product e
 
 Lastly, a series of codes were written that allows the application to send a direct message to my personal e-mail account if the price of the sneakers fall below a set price of $348.
 ________________________________________________________________________________________________________________________
-**Conclusion**- A fully functional automated python application that scrapes amazon's website every 24hours and collects information about a product and saves it directly into a offline csv file.
+**Conclusion**- This project has created a fully functional automated python application that scrapes amazon's website every 24hours and collects information about a product and saves it directly into a offline csv file.
 _________________________________________________________________________________________________________________________
 I hope you enjoy going through this project as much i have enjoyed creating it.
 
