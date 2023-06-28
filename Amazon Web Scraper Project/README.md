@@ -5,6 +5,7 @@ NOTE: This project was created for research purposes only.
 
 This website includes all the vital information about Men's Jordan 1 Retro High OG Dark Marina Blue Black-White sneakers.
 ________________________________________________________________________________________________________________________
+**Data Structure:** 
 **Tools**: Python, Numpy, Pandas, Matplotlib.pyplot, BeautifulSoup, Requests, Seaborn, Smtplib, Time and Datetime.
 ________________________________________________________________________________________________________________________
 
