@@ -1,9 +1,9 @@
 # WELCOME TO MY BIKE PROJECT USING ADVANCED EXCEL
 **Data Source:** Bike Sales Dataset- www.kaggle.com
-
-The dataset contained important information about the customers that purchased bikes such as id, marital status, gender, number of children, education, occupation, if they own a home, cars, commute distance, region, age and if they purchased a bike.
 ___________________________________________________________________________________________________________________________________________________________________
 **Data Structure:** This Excel file contains 1,001 rows and 14 columns.
+
+The dataset contained important information about the customers that purchased bikes such as id, marital status, gender, number of children, education, occupation, if they own a home, cars, commute distance, region, age and if they purchased a bike.
 ___________________________________________________________________________________________________________________________________________________________________
 **Analysis Tools:** Excel functions, Pivot tables, Pivot Charts.
 ___________________________________________________________________________________________________________________________________________________________________
